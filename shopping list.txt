@@ -4,12 +4,6 @@ c
 d
 e
 f
-<<<<<<< HEAD
-j
-k
-l
-=======
 g
 h
 i
->>>>>>> db6b765c8ba3cc12d379f3e982bc49964c60aa8f
